@@ -14,6 +14,7 @@ This is a Conflict Resolution Style Analysis tool
 with top 2 style comparison functionality
 
 |||||||*****************************|||||||
+
 Menu:
 1. Analyze
 2. Retrieve
