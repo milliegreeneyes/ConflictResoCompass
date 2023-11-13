@@ -1,2 +1,2 @@
 # ConflictResoCompass
-Conflict Resolution Compass Tool
+## Conflict Resolution Compass Tool
